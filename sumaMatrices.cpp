@@ -39,6 +39,5 @@ int main()
         cout << endl;
     }
 
-    cout << "La sumatoria de la matriz es: " << s;
     return 0;
 }
